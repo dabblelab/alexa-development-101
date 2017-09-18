@@ -31,17 +31,17 @@ The goal of this course is give you a solid introduction to building skills for 
 - how to go beyond this course to get more experience
 
 ### Course Outline
-00:00:02 - Lesson 01: Welcome & Course Introduction
-00:01:27 - Lesson 02: A Technical Overview of Alexa
-00:06:11 - Lesson 03: Skills Setup in the Developer Portal
-00:12:45 - Lesson 04: Understanding Intents and Slots
-00:16:16 - Lesson 05: Creating Skill Services
-00:24:09 - Lesson 06: Understanding Skill Code
-00:32:06 - Lesson 07: Skill Testing
-00:37:33 - Lesson 08: Planning and Design
-00:46:55 - Lesson 09: Building a Complete Skill
-00:59:30 - Lesson 10: Skill Certification
-01:06:19 - Lesson 11: Next Steps
+- 00:00:02 - Lesson 01: Welcome & Course Introduction
+- 00:01:27 - Lesson 02: A Technical Overview of Alexa
+- 00:06:11 - Lesson 03: Skills Setup in the Developer Portal
+- 00:12:45 - Lesson 04: Understanding Intents and Slots
+- 00:16:16 - Lesson 05: Creating Skill Services
+- 00:24:09 - Lesson 06: Understanding Skill Code
+- 00:32:06 - Lesson 07: Skill Testing
+- 00:37:33 - Lesson 08: Planning and Design
+- 00:46:55 - Lesson 09: Building a Complete Skill
+- 00:59:30 - Lesson 10: Skill Certification
+- 01:06:19 - Lesson 11: Next Steps
 
 ### What you need
 All you'll need for this course is a computer with a Web browser and Internet access. You don't even need an Amazon Echo (although it's nice to have one). And, it doesn't matter if you prefer a Mac, Windows, or Linux - whichever you're most comfortable with will work perfectly.
