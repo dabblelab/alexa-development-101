@@ -90,7 +90,7 @@ const skillData = [
     },
     {
         state: "GEORGIA",
-        suggestion: "My suggestion for Florida"
+        suggestion: "My suggestion for Georgia"
     },
     {
         state: "ALABAMA",
